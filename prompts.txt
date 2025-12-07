@@ -1,0 +1,111 @@
+# Image Caption Prompts (Style Guides for Older Male Audience)
+# These are used as STYLE GUIDES for image captions
+# The LLM analyzes the image and generates captions in these styles
+# Keep prompts SHORT - they guide the tone/style, not the content
+# One prompt per line, lines starting with # are ignored
+
+# Age-Gap Flirty Hooks (Target: older men, subtle age dynamics)
+Why do older guys give different attention?
+Someone older complimented me and idk why it hit so hard
+I swear older men look at me differently and I kinda like it
+The way an older guy talked to me today... I wasn't ready
+I feel more comfortable talking to older guys for some reason
+Guys my age feel like boys, it's weird
+Someone older gave me advice today and it stuck with me
+I feel like I attract older men without trying
+There's something about a mature voice that gets me
+Why do I always catch older men looking at me?
+I realized today I like confident men way too much
+Older men just hit different and I can't explain it
+The way someone older noticed me today...
+I don't know why but older guys make me feel safe
+Someone mature complimented me and now I'm overthinking it
+
+# Validation-Seeking (Target: insecurity + desire for attention)
+I don't know if I look cute today or just tired
+I keep wondering how I look through someone else's eyes
+I took a picture and can't tell if it's cute or cringe
+I don't know why but compliments hit different today
+Does this make me look older or still too young?
+I can't tell if this is a win or a fail
+I'm not sure if I should post this
+I don't know how to feel about this pic
+Idk if this is giving what I think it is
+I took this and immediately questioned everything
+I can't decide if this is cute or embarrassing
+I don't know if I look innocent or dangerous here
+I'm not sure if this angle works or nah
+I can't tell if this vibe is right
+
+# Suggestive but Safe (Target: subtle sexual tension, innocent)
+I almost said something flirty today by accident
+Someone called me trouble today... still thinking about it
+I realized I like confident men way too much
+I like when someone notices small things about me
+I didn't expect to blush today but it happened
+I said something today and immediately regretted it
+I can't tell if I'm bold or just stupid sometimes
+I accidentally flirted without realizing it
+I almost crossed a line today and idk how I feel
+Someone said I'm dangerous and I'm not sure if that's good
+I realized I like attention way too much
+I don't know if I'm flirting or just being friendly
+I caught myself being too forward today
+
+# Vulnerability/Uncertainty (Target: emotional hooks, open loops)
+I don't know how to feel about this
+Idk if this is a win or a fail
+I'm not sure if I should post this
+I can't tell if I'm bold or just stupid sometimes
+Why am I like this today?
+My brain is embarrassing me again
+I'm having one of those days where I question everything
+I don't know why but today hit different
+I'm not sure if I'm doing this right
+I can't tell if I'm overthinking or underthinking this
+I don't know what I'm doing but here we go
+I'm confused about how I feel right now
+
+# Image-Aware + Age-Gap (Target: visual + older men appeal)
+Does this angle make me look older or still too young?
+Would someone mature even notice this?
+I took this and idk if it's giving what I think it is
+Does this vibe work for someone older?
+Is this too much or just right?
+Does this make me look innocent or dangerous?
+Would someone like you even notice this?
+I took this pic and idk if it's a serve or a fail
+Does this lighting make me look older?
+I can't tell if this outfit is too much or just right
+Does this angle work or nah?
+I'm not sure if this is giving what I want it to
+Does this make me look mature or still too young?
+Would an older guy even look twice at this?
+
+# Soft Submission/Admiration (Target: submissive vibe, maturity worship)
+I wish someone would teach me something
+I like when someone takes the lead
+I realized I need guidance way too much
+Someone older made me feel small in a good way
+I don't know why but I trust older men more
+I like when someone knows what they want
+I realized I'm way too submissive sometimes
+I wish someone would tell me what to do
+I like when someone is confident with me
+I don't know why but I listen better to older guys
+I realized I like being told what to do
+Someone older made me feel protected today
+I like when someone takes control
+
+# Playful Insecurity (Target: validation hunger)
+Would someone like you even notice me?
+Do I look too young or just right?
+Be honest, would you actually approach me?
+I don't know if I'm attractive or just delusional
+I can't tell if people actually like me or just being nice
+I don't know if I'm giving what I think I am
+I'm not sure if I'm pretty or just confident
+I can't tell if this is working or I'm just hoping
+I don't know if I'm doing this right
+I'm not sure if anyone would actually want me
+I can't tell if I'm attractive or just trying too hard

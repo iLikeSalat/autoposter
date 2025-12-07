@@ -1,0 +1,73 @@
+# Platform Selection (can also use .env file)
+# Set to true/false or use ENABLE_THREADS/ENABLE_TWITTER in .env
+platforms:
+  threads: true   # Or set ENABLE_THREADS in .env
+  twitter: false  # Or set ENABLE_TWITTER in .env
+
+# Threads (Meta) API Configuration (can also use .env file)
+threads:
+  access_token: "your_access_token"  # Or set THREADS_ACCESS_TOKEN in .env
+  user_id: "your_user_id"  # Or set THREADS_USER_ID in .env
+  enable_auto_replies: false  # Or set ENABLE_AUTO_REPLIES=true in .env
+  # Auto-reply system will reply to comments on your threads
+  # Rate limits: max 20 replies/day, max 3 per thread, 2-15 min delays
+
+# Twitter/X API Configuration (can also use .env file)
+twitter:
+  api_key: "your_api_key"  # Or set TWITTER_API_KEY in .env
+  api_secret: "your_api_secret"  # Or set TWITTER_API_SECRET in .env
+  access_token: "your_access_token"  # Or set TWITTER_ACCESS_TOKEN in .env
+  access_token_secret: "your_access_token_secret"  # Or set TWITTER_ACCESS_TOKEN_SECRET in .env
+  bearer_token: "your_bearer_token"  # Or set TWITTER_BEARER_TOKEN in .env
+
+# Local Image Folder Configuration
+images:
+  folder: "images"  # Local folder path where images are stored
+  file_extensions: [".jpg", ".jpeg", ".png", ".gif", ".webp"]
+  upload_service: "imgbb"  # Image hosting service: "imgbb" (recommended) or "imgur"
+  # Note: Add IMGBB_API_KEY to .env file for image uploads
+  # Get your ImgBB API key from: https://api.imgbb.com/
+  # Imgur API is no longer reliable, ImgBB is recommended
+
+# LLM Configuration (OpenAI)
+llm:
+  provider: "openai"
+  api_key: "your_openai_api_key"  # Or set OPENAI_API_KEY in .env
+  model: "gpt-4o"  # or "gpt-4-vision-preview" for vision
+  max_tokens: 500
+  temperature: 0.7
+  # Custom prompts and stories for content generation
+  # Option 1: Load from text files (recommended)
+  prompts_file: "prompts.txt"  # Path to your prompts file (one prompt per line)
+  stories_file: "stories.txt"  # Path to your stories file (format: category: example)
+  
+  # Option 2: Define prompts directly in config (alternative to prompts_file)
+  # prompts:
+  #   - "Your viral prompt 1 here"
+  #   - "Your viral prompt 2 here"
+  #   - "Your viral prompt 3 here"
+
+# Posting Schedule
+schedule:
+  # Optimal posting plan: 10 text posts + 5 image posts per day (15 total, safe limit)
+  text_posts_per_day: 10  # Number of text-only posts per day
+  image_posts_per_day: 5  # Number of image posts per day (max recommended: 5)
+  random_times: true  # Set to true to post at random times
+  weighted_random: true  # Use weighted randomness (avoids 2-7 AM, favors active hours: 9-11 AM, 12-2 PM, 5-9 PM)
+  
+  # Alternative: Random intervals (30-90 minutes between posts)
+  # min_interval_minutes: 30  # Minimum minutes between posts
+  # max_interval_minutes: 90  # Maximum minutes between posts
+  
+  # Alternative: Single post at specific time (use if random_times is false)
+  # post_time: "09:00"  # Specific time to post (24-hour format)
+  
+  # Alternative: Post at regular intervals (use if random_times is false and post_time is not set)
+  # interval_hours: 24  # Post every X hours
+
+# Content Settings
+content:
+  max_thread_length: 5  # Maximum number of tweets in a thread
+  include_hashtags: true
+  hashtag_count: 3
+

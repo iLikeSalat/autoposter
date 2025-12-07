@@ -1,0 +1,179 @@
+# Story Seeds for Text Posts (Targeting Older Male Audience)
+# Format: category: example
+# These seeds guide the LLM to create posts that appeal to older men
+# Categories: story, question, hot_take, flirty, vulnerable, suggestive, submission
+
+# Age-Gap Flirty Stories (Target: subtle older men preference)
+story: I talked to someone older today and now my brain is stuck on it
+story: Why do older guys give a different kind of attention?
+story: Someone older complimented me today and idk why it hit so hard
+story: I swear older men look at me differently and I kinda like it
+story: The way an older guy talked to me today… I wasn't ready
+story: I feel more comfortable talking to older guys for some reason
+story: Guys my age feel like boys, it's weird
+story: Someone older gave me advice today and it stuck with me
+story: I feel like I attract older men without trying
+story: There's something about a mature voice that gets me
+story: Why do I always catch older men looking at me?
+story: I realized today I like confident men way too much
+story: Older men just hit different and I can't explain it
+story: The way someone older noticed me today...
+story: I don't know why but older guys make me feel safe
+
+# Vulnerable / Validation-Seeking (Target: insecurity + attention craving)
+story: I don't know if I look cute today or just tired
+story: I keep wondering how I look through someone else's eyes
+story: I took a picture today and can't tell if it's cute or cringe
+story: I don't know why but compliments hit different today
+story: I felt weirdly soft today idk why
+story: I can't tell if I'm attractive or just delusional
+story: I don't know if people actually like me or just being nice
+story: I'm not sure if I'm giving what I think I am
+story: I can't tell if this is working or I'm just hoping
+story: I don't know if I'm pretty or just confident
+story: I'm not sure if anyone would actually want me
+story: I can't tell if I'm doing this right
+
+# Suggestive but SAFE (Target: subtle sexual tension, innocent)
+story: I almost said something flirty today by accident
+story: Someone called me trouble today… still thinking about it
+story: I didn't expect to blush today but it happened
+story: I like when someone notices small things about me
+story: I realized today I like confident men way too much
+story: I said something today and immediately regretted it
+story: I can't tell if I'm bold or just stupid sometimes
+story: I accidentally flirted without realizing it
+story: I almost crossed a line today and idk how I feel
+story: Someone said I'm dangerous and I'm not sure if that's good
+story: I realized I like attention way too much
+story: I don't know if I'm flirting or just being friendly
+
+# "Older Men" Hooks (Target: subtle age-gap dynamics)
+story: I feel more comfortable talking to older guys for some reason
+story: Guys my age feel like boys, it's weird
+story: Someone older gave me advice today and it stuck with me
+story: I feel like I attract older men without trying
+story: There's something about a mature voice that gets me
+story: I don't know why but I trust older men more
+story: I realized I listen better to older guys
+story: Someone older made me feel protected today
+story: I like when someone is confident with me
+story: I don't know why but older guys make me feel safe
+
+# Controlled Chaos / Uncertainty (Target: emotional hooks)
+story: I said something today and immediately regretted it
+story: I can't tell if I'm bold or just stupid sometimes
+story: Why am I like this today?
+story: My brain is embarrassing me again
+story: I accidentally flirted without realizing it
+story: I'm having one of those days where I question everything
+story: I don't know what I'm doing but here we go
+story: I'm confused about how I feel right now
+story: I can't tell if I'm overthinking or underthinking this
+story: I don't know why but today hit different
+
+# Soft Submission / Admiration (Target: submissive vibe, maturity worship)
+story: I wish someone would teach me something
+story: I like when someone takes the lead
+story: I realized I need guidance way too much
+story: Someone older made me feel small in a good way
+story: I don't know why but I trust older men more
+story: I like when someone knows what they want
+story: I realized I'm way too submissive sometimes
+story: I wish someone would tell me what to do
+story: I like when someone is confident with me
+story: I don't know why but I listen better to older guys
+story: I realized I like being told what to do
+story: Someone older made me feel protected today
+
+# Questions Targeting Older Men (Target: engagement hooks)
+question: Would you ever date someone much younger than you?
+question: What would you do if you saw me like this in public?
+question: Do you think age gaps in relationships are okay?
+question: What's the first thing you notice about a girl?
+question: Would you approach me or wait for me to approach you?
+question: What makes you stop scrolling on Threads?
+question: Do you prefer confidence or shyness in a woman?
+question: Would you say hi if you saw me looking like this?
+question: What's the most attractive quality in a woman to you?
+question: Be honest, would you actually notice me?
+question: Do I look too young or just right?
+question: Would someone like you even say hi?
+question: Is this a red flag or green flag for you?
+question: Should I post more like this or no?
+question: Honest question... do I look older here?
+question: Would you approach me or keep scrolling?
+question: Do I look innocent or dangerous?
+question: What would you do if you saw me like this?
+question: Be real, is this giving what I think it is?
+question: Would someone mature even notice this?
+
+# Hot Take Seeds (Target: controversial but safe)
+hot_take: Unpopular opinion but age is just a number if you're both adults
+hot_take: Hot take: older men are more attractive than guys my age
+hot_take: I'm going to say it: maturity matters more than age
+hot_take: Unpopular opinion: age gaps don't matter if there's a connection
+hot_take: Hot take: guys my age are too immature for me
+hot_take: Unpopular opinion: I prefer older men and I'm not ashamed
+hot_take: Hot take: people judge age gaps too much
+hot_take: Unpopular opinion: what matters is how you treat each other
+hot_take: Hot take: older men know what they want and I like that
+hot_take: Unpopular opinion: I feel safer with older guys
+
+# Flirty Seeds (Target: older men, suggestive but safe)
+flirty: Why do older men always ignore me when I'm right here?
+flirty: I wish some older men would come talk to me
+flirty: What's the first thing you noticed? Be honest lol
+flirty: Would you approach me if you saw me like this?
+flirty: Do you prefer the messy look or clean look?
+flirty: If I walked past you looking like this, would you say hi?
+flirty: Rate my vibe 1-10 (be nice)
+flirty: Someone said this pic is a red flag, thoughts?
+flirty: What catches your attention first? Be real
+flirty: Would you? (you know what I mean)
+flirty: I can't tell if I'm flirting or just like attention
+flirty: Tell me your type without telling me your type
+flirty: If I texted you first, what would you do?
+flirty: I took this pic and suddenly felt cute?? idk
+flirty: Is it bad that I like attention a little?
+flirty: Be honest: do I look sweet or dangerous?
+flirty: What kind of vibe do I give off in this pic?
+flirty: If this popped up on your feed, would you stop scrolling?
+flirty: Which version of me is better, soft or confident?
+
+# Relatable Seeds (Target: older men appeal)
+relatable: Anyone else feel like they're in the wrong generation?
+relatable: Me when I see an older man with good style
+relatable: The way older men talk to me vs guys my age
+relatable: Anyone else attract older men but not guys their age?
+relatable: Me when I realize I'm more mature than guys my age
+relatable: The way I feel when an older man gives me attention
+relatable: Anyone else tired of immature guys?
+relatable: Me when I see someone who actually knows what they want
+relatable: I'm always the youngest person in the room and it's weird
+relatable: I swear my life is a mix of chaos and good intentions
+relatable: Anyone else pretend to have their life together?
+
+# Motivational/Positive Seeds (Target: validation, but keep minimal)
+motivational: If you're reading this, remember you're attractive at any age
+motivational: Just a reminder: age is just a number
+motivational: You got this, don't let age stop you
+motivational: Remember: what matters is how you make someone feel
+motivational: If you're here, you're already ahead of the game
+motivational: Just a reminder: confidence is the most attractive quality
+motivational: You got this, don't let judgment stop you
+motivational: Remember: you deserve someone who treats you right
+motivational: If you're reading this, you're doing better than you think
+motivational: Reminder: your life can change completely in one month
+
+# Neutral Seeds (Target: variety, avoid template detection - keep minimal)
+neutral: I took this pic and idk how I feel about it... thoughts?
+neutral: Tell me your honest opinion without being mean
+neutral: What's something random you noticed today?
+neutral: I'm having one of those days where everything feels off
+neutral: What's a small thing that made you smile today?
+neutral: I can't decide if I'm having a good day or a weird day
+neutral: What's something you're overthinking right now?
+neutral: I'm in my feels today and idk why
+neutral: What's one thing you'd change about today?
+neutral: I'm just existing and somehow that's enough
